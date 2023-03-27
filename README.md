@@ -13,8 +13,8 @@
 #### ADG-based method (ADG.py)
 
 ## Other Files
-#### The training code of LSTM language model (train.py)
-#### The architecture code of LSTM Language model (lm.py)
-#### The generating code for no-embedding text by well-trained LM with random sampling (Generated_Cover.py)
+#### The code of training LSTM language model (train.py)
+#### The code of architecture of LSTM Language model (lm.py)
+#### The code of generating no-embedding text by well-trained LM with random sampling (Generated_Cover.py)
 #### The code of Huffman algorithm (Huffman.py)
 #### The other codes of these text-stegangography methods (utils.py)
