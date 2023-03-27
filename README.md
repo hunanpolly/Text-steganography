@@ -11,6 +11,7 @@
 #### Arithmetic-coding based method (AC.py)
 #### Patient-huffman based method (P-HC.py)
 #### ADG-based method (ADG.py)
+#### The implementation of the GAN-APD text steganography (2022 TDSC paper) is [here!](https://github.com/CAU-Tstega/text-steganography)
 
 ## Other Files
 #### The code of training LSTM language model (train.py)
