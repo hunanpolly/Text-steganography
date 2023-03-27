@@ -11,3 +11,10 @@
 #### Arithmetic-coding based method (AC.py)
 #### Patient-huffman based method (P-HC.py)
 #### ADG-based method (ADG.py)
+
+## Other Files
+#### The training code of LSTM language model (train.py)
+#### The architecture code of LSTM Language model (lm.py)
+#### The generating code for no-embedding text by well-trained LM with random sampling (Generated_Cover.py)
+#### The code of Huffman algorithm (Huffman.py)
+#### The other codes of these text-stegangography methods (utils.py)
