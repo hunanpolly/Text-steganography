@@ -1,4 +1,4 @@
-# Textsteganography Pytorch-Version
+# Text steganography Pytorch-Version
 
 ## Summary
 #### This repository contains a Pytorch reimplementation for previously prevailing text steganography methods based on LSTM language model.
